@@ -6,6 +6,7 @@ package com.itheima.web;
  * 描述
  */
 public class test01 {
+    private String username;
     public static void main(String[] args) {
         System.out.println("测试类执行了 ");
     }
