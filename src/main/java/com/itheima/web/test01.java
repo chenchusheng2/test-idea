@@ -7,6 +7,7 @@ package com.itheima.web;
  */
 public class test01 {
     private Integer age;
+    private String sex;
     private String username;
     private String password;
     public static void main(String[] args) {
