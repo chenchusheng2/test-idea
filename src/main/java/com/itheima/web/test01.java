@@ -10,6 +10,7 @@ public class test01 {
     private String sex;
     private String username;
     private String password;
+    private String add;
     public static void main(String[] args) {
         System.out.println("测试类执行了 ");
     }
